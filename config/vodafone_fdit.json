@@ -1,0 +1,330 @@
+{
+    "30208": {
+        "lat": 51.323418591800014,
+        "lon": 12.333318509453498,
+        "cells": [
+            {
+                "pci": 17,
+                "dir_v": 30,
+                "width_v": 35,
+                "earfcn": 6300
+
+            },
+            {
+                "pci": 16,
+                "dir_v": 174,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 237,
+                "dir_v": 89,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 238,
+                "dir_v": 193,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 239,
+                "dir_v": 314,
+                "width_v": 35,
+                "earfcn": 100
+            }
+        ]
+    },
+    "32564": {
+        "lat": 51.31895021362382, 
+        "lon": 12.342496146727502,
+        "cells": [
+            {
+                "pci": 335,
+                "dir_v": 73,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 371,
+                "dir_v": 139,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 142,
+                "dir_v": 68,
+                "width_v": 35,
+                "earfcn": 2850
+
+            },
+            {
+                "pci": 61,
+                "dir_v": 76,
+                "width_v": 35,
+                "earfcn": 1801
+            },
+            {
+                "pci": 403,
+                "dir_v": 255,
+                "width_v": 35,
+                "earfcn": 1801
+            },
+            {
+                "pci": 154,
+                "dir_v": 74,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 153,
+                "dir_v": 76,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 155,
+                "dir_v": 100,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 103,
+                "dir_v": 74,
+                "width_v": 35,
+                "earfcn": 9460
+            },
+            {
+                "pci": 115,
+                "dir_v": 169,
+                "width_v": 35,
+                "earfcn": 9460
+            },
+            {
+                "pci": 4,
+                "dir_v": 276,
+                "width_v": 35,
+                "earfcn": 9460
+            }
+        ]
+    },
+    "32018": {
+        "lat": 51.326902643863065,
+        "lon": 12.345642328237284,
+        "cells": [
+            {
+                "pci": 362,
+                "dir_v": 182,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 360,
+                "dir_v": 203,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 361,
+                "dir_v": 93,
+                "width_v": 35,
+                "earfcn": 6300
+
+            },
+            {
+                "pci": 432,
+                "dir_v": 33,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 433,
+                "dir_v": 182,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 434,
+                "dir_v": 311,
+                "width_v": 35,
+                "earfcn": 100
+            }
+        ]
+    },
+    "34963": {
+        "lat": 51.33755624577087, 
+        "lon": 12.35495185188943,
+        "cells": [
+            {
+                "pci": 18,
+                "dir_v": 32,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 20,
+                "dir_v": 122,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 19,
+                "dir_v": 2,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 55,
+                "dir_v": 41,
+                "width_v": 35,
+                "earfcn": 1801
+            },
+            {
+                "pci": 307,
+                "dir_v": 144,
+                "width_v": 35,
+                "earfcn": 1801
+            },
+            {
+                "pci": 13,
+                "dir_v": 303,
+                "width_v": 35,
+                "earfcn": 1801
+            },
+            {
+                "pci": 192,
+                "dir_v": 76,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 193,
+                "dir_v": 126,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 194,
+                "dir_v": 305,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 445,
+                "dir_v": 102,
+                "width_v": 35,
+                "earfcn": 9460
+            },
+            {
+                "pci": 148,
+                "dir_v": 202,
+                "width_v": 35,
+                "earfcn": 9460
+            },
+            {
+                "pci": 178,
+                "dir_v": 318,
+                "width_v": 35,
+                "earfcn": 100
+            }
+        ]
+    },
+    "30217": {
+        "lat": 51.3333030263295, 
+        "lon": 12.363433843099996,
+        "cells": [
+            {
+                "pci": 480,
+                "dir_v": 109,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 481,
+                "dir_v": 244,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 482,
+                "dir_v": 244,
+                "width_v": 35,
+                "earfcn": 6300
+            },
+            {
+                "pci": 314,
+                "dir_v": 65,
+                "width_v": 35,
+                "earfcn": 2850
+            },
+            {
+                "pci": 313,
+                "dir_v": 215,
+                "width_v": 35,
+                "earfcn": 2850
+            },
+            {
+                "pci": 312,
+                "dir_v": 253,
+                "width_v": 35,
+                "earfcn": 2850
+            },
+            {
+                "pci": 364,
+                "dir_v": 76,
+                "width_v": 35,
+                "earfcn": 1801
+            },
+            {
+                "pci": 148,
+                "dir_v": 203,
+                "width_v": 35,
+                "earfcn": 1801
+            },
+            {
+                "pci": 474,
+                "dir_v": 245,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 475,
+                "dir_v": 190,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 476,
+                "dir_v": 296,
+                "width_v": 35,
+                "earfcn": 100
+            }
+        ]
+    },
+    "33755": {
+        "lat": 51.33135003179687,
+        "lon": 12.334390187908228,
+        "cells": [
+            {
+                "pci": 333,
+                "dir_v": 143,
+                "width_v": 35,
+                "earfcn": 6300
+
+            },
+            {
+                "pci": 417,
+                "dir_v": 281,
+                "width_v": 35,
+                "earfcn": 100
+            },
+            {
+                "pci": 419,
+                "dir_v": 281,
+                "width_v": 35,
+                "earfcn": 100
+            }
+        ]
+    }
+}
